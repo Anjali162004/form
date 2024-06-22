@@ -113,7 +113,7 @@ Build a survey form with complex conditional fields, dynamic sections, and integ
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/dynamic-forms.git](https://github.com/Anjali162004/form)
-   cd dynamic-forms
+   cd form
    ```
 
 2. Install dependencies:
